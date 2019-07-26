@@ -42,6 +42,10 @@
           <option name="url" value="git@github.com:ctripcorp/apollo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:MyCATApache/Mycat-Server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/IdeaProjects" />
